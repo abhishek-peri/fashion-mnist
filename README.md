@@ -1,1 +1,1 @@
-# fashion-mnist
+# Fashion-mnist
